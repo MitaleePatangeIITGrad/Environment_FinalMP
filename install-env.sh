@@ -6,7 +6,7 @@ sudo apt-get -y install apache2 git php5 php5-curl mysql-client curl php5-mysql 
 sudo phpp5enmod imagick
 sudo service apache2 reload
 
-git clone https://github.com/MitPat/Application_MP2.git
+git clone https://github.com/MitPat/Application_FinalMP.git
 
 mv ./Application_FinalMP/images /var/www/html/images
 
